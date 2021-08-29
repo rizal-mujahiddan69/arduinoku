@@ -4,6 +4,12 @@
 int i = 0;
 int t = 30;
 
+// 13 sebagai Tombol inputnya
+// 12 Sebagai pin buat lampu hijau
+// 11 Sebagai pin buat lampu kuning
+// 10 Sebagai pin buat lampu merah
+// 9 Sebagai pin buat buzzer
+
 void setup()
 {
   pinMode(13,INPUT);
